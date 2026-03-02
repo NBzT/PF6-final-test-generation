@@ -19,7 +19,7 @@ def buscar_dish(numero):
 
 ##________________________________________________________##
 def main():
-    print("Hello learners!")
+    print("Hello learners! Welcome to Colombia!")
 
 
     print("Escoja el plato típico de su gusto\n")
